@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/validation/pom.xml" />
+        <option value="$PROJECT_DIR$/hmac/pom.xml" />
+        <option value="$PROJECT_DIR$/hmac/Ascii/pom.xml" />
+        <option value="$PROJECT_DIR$/ascii-table/pom.xml" />
+        <option value="$PROJECT_DIR$/determining-the-winner/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
